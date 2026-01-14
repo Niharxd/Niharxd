@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on Data analysis and Data Science. I'm working on some ML/DL projects too.
 
 
