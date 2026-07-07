@@ -17,7 +17,6 @@
 - I specialize in full-stack backend development with a focus on AI-driven systems and real-time analytics
 - I build robust APIs, scalable databases, and intelligent applications using Flask, PostgreSQL, and modern web technologies
 - I develop real-time systems, analytics dashboards, and data processing pipelines for actionable insights
-- Currently leading development on **TaskOrbit** - a task management platform with real-time notifications and comprehensive analytics
 - Passionate about the intersection of backend engineering, AI, and user-centric full-stack solutions
 - Fun fact: I prefer dark themes - earthy ones especially
 
