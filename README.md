@@ -1,175 +1,303 @@
-<h1 align="center">Hey there, I'm Nihar Ranjan Patra</h1>
+<div align="center">
 
-<p align="center">
-  <em>Backend Engineer · Full-Stack Developer · AI Systems · Real-Time Analytics - building intelligent, scalable applications.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1D,50:0D3B36,100:0A2E29&height=220&section=header&text=Nihar%20Ranjan%20Patra&fontSize=42&fontColor=CCFBF1&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Niharxd">
-    <img src="https://img.shields.io/github/followers/Niharxd?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI%2FML+Pipelines+%26+Systems;Turning+Data+into+Intelligent+Products;B.Tech+CSE+(Data+Science)+%40+CVRGU" alt="Typing SVG" />
 
----
+<br/>
 
-### About Me
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(Data%20Science)-10B981?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20Odisha-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-- I specialize in full-stack backend development with a focus on AI-driven systems and real-time analytics
-- I build robust APIs, scalable databases, and intelligent applications using Flask, PostgreSQL, and modern web technologies
-- I develop real-time systems, analytics dashboards, and data processing pipelines for actionable insights
-- Passionate about the intersection of backend engineering, AI, and user-centric full-stack solutions
-- Fun fact: I prefer dark themes - earthy ones especially
+<br/><br/>
 
----
+<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/Portfolio-3D1635?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-0D3B36?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-34D399?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### Tech Stack
+<br/><br/>
 
-#### Backend
-![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4B0082?style=flat)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
-![APScheduler](https://img.shields.io/badge/APScheduler-FF6F00?style=flat)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-007396?style=flat&logo=sqlalchemy&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=Niharxd&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Niharxd?style=for-the-badge&color=34D399&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/stars/Niharxd?style=for-the-badge&color=10B981&label=STARS" />
 
-#### Database & HTTP
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![aiosqlite](https://img.shields.io/badge/aiosqlite-grey?style=flat)
-![httpx](https://img.shields.io/badge/httpx-async-blue?style=flat)
+</div>
 
-#### AI / ML / Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![torchvision](https://img.shields.io/badge/torchvision_ResNet18-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-FFD43B?style=flat)
-
-#### OCR & PDF
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat)
-![pytesseract](https://img.shields.io/badge/pytesseract-grey?style=flat)
-![ReportLab](https://img.shields.io/badge/ReportLab-CC0000?style=flat)
-
-#### Frontend
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite_5-646CFF?style=flat&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide_React-F56565?style=flat)
-
-#### Maps & Geospatial
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
-![Nominatim](https://img.shields.io/badge/Nominatim_Geocoding-7EBC6F?style=flat)
-
-#### Data
-![xmltodict](https://img.shields.io/badge/xmltodict-grey?style=flat)
-![CSV](https://img.shields.io/badge/CSV_Parsing-grey?style=flat)
+<br/>
 
 ---
 
-### Featured Projects
+## About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>TaskOrbit</h3>
-      <p>A modern task management platform with real-time notifications, analytics dashboards, and comprehensive project tracking. Features REST APIs, CSV export, and a responsive dark-themed UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask--SocketIO-000000?style=flat" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      </p>
-      <a href="https://github.com/Niharxd/TaskOrbit">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Earth Alert</h3>
-      <p>Aggregates live data from NASA, USGS, NOAA and the UN to deliver a real-time view of every major natural disaster on the planet.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-      </p>
-      <a href="https://github.com/Niharxd/Earth-Alert">View Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Heritage AI</h3>
-      <p>A fully local, beginner-friendly conservation assistant for manuscript and monument images. No cloud. No API keys. Everything runs on your machine.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat" />
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-      </p>
-      <a href="https://github.com/Niharxd/HeritageAI">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty cell for balance -->
-    </td>
-  </tr>
+```yaml
+name: Nihar Ranjan Patra
+role: Full Stack Developer & AI/ML Engineer
+education: B.Tech, Computer Science (Data Science) @ C.V. Raman Global University
+location: Bhubaneswar, Odisha, India
+```
+
+I'm a **Full Stack Developer** with strong hands-on experience building **scalable web applications** and **AI-powered systems**. I work across the entire stack — from crafting responsive frontend interfaces to designing robust backend APIs, real-time systems, and end-to-end **machine learning pipelines**.
+
+I approach engineering with a **product mindset** — not just writing code, but shipping systems that solve real-world problems through data-driven, intelligent design. My recent work spans computer-vision-based heritage preservation, cloud carbon accounting with ML-driven emissions prediction, and applied NLP/OCR pipelines.
+
+<table align="center">
+<tr>
+<td>
+
+**Open To**
+- Full Stack Developer roles
+- AI/ML Engineering roles
+- Open source collaboration
+- Freelance product builds
+
+</td>
+</tr>
 </table>
 
 ---
 
-### Activity & Metrics
+## Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Niharxd&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niharxd&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,r&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,vite&theme=dark" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postgres&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark" />
+
+</div>
 
 ---
 
-### Skills Overview
+## AI / ML Expertise
 
-| Skill | Proficiency |
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-learn, Linear Regression, Random Forest, model auto-selection |
+| Deep Learning | ⭐⭐⭐☆☆ | PyTorch fundamentals, applied model training |
+| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV — damage/defect detection, severity scoring |
+| OCR & NLP | ⭐⭐⭐☆☆ | Tesseract OCR (multi-language), applied NLP pipelines |
+| Explainable AI | ⭐⭐⭐☆☆ | Interpretable risk prediction, anomaly & efficiency scoring |
+| Data Analysis | ⭐⭐⭐⭐☆ | EDA, trend analysis, geographic & time-series insights |
+
+</div>
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>Heritage AI — AI-Based Cultural Heritage Preservation System</b></summary>
+<br/>
+
+Full-stack platform for analyzing cultural artifacts using a 6-stage AI pipeline covering detection, enhancement, prediction, and explainability. Combines computer vision with interpretable ML to help preserve heritage sites and objects.
+
+| Category | Details |
 |---|---|
-| Python | ████████████████████ 95% |
-| Backend Engineering | ██████████████████░░ 90% |
-| React / TypeScript | █████████████████░░░ 85% |
-| PyTorch / ML | ████████████████░░░░ 80% |
-| Computer Vision (OpenCV) | ████████████████░░░░ 80% |
-| Data Analysis | ███████████████░░░░░ 75% |
-| PostgreSQL / SQL | ███████████████░░░░░ 75% |
-| OCR (Tesseract) | █████████████░░░░░░░ 65% |
+| **Stack** | React, FastAPI, OpenCV, OCR |
+| **Scale** | 6-stage end-to-end pipeline |
+| **Performance** | Real-time damage detection & severity scoring |
+| **Security** | Interpretable, auditable prediction outputs |
+| **Impact** | Automated cultural artifact risk assessment |
+| **Repository** | [github.com/Niharxd](https://github.com/Niharxd) |
+
+Built with a strong focus on damage detection — identifying cracks, stains, erosion, and fading via OpenCV, layered with multi-language OCR and an interpretable risk-prediction system. The frontend delivers a full analysis dashboard with archive, comparison, and export tooling for researchers and conservators.
+
+</details>
+
+<details>
+<summary><b>GHG Platform — Cloud Carbon Accounting & Emissions Intelligence System</b></summary>
+<br/>
+
+A full-stack carbon emissions tracker that models infrastructure emissions across global regions, combining secure authentication with an ML-driven prediction engine.
+
+| Category | Details |
+|---|---|
+| **Stack** | React, FastAPI, MySQL, JWT Auth |
+| **Scale** | 6 global regions (India, US, China, Germany, Sweden, France) |
+| **Performance** | 99.7% test accuracy on emissions prediction |
+| **Security** | JWT-authenticated, role-based access |
+| **Impact** | Sustainability & efficiency scoring per prediction |
+| **Repository** | [github.com/Niharxd](https://github.com/Niharxd) |
+
+Engineered an ML pipeline comparing Linear Regression against Random Forest with automatic model selection, using features like CPU, RAM, storage, and regional carbon intensity. Includes anomaly detection, PDF report generation, and per-prediction sustainability scoring.
+
+</details>
 
 ---
 
-### LeetCode Stats
+## Experience
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nihar_Patra?theme=dark&font=Nunito&ext=heatmap" />
-</p>
+**Data Analyst Intern** · Cognifyz Technologies (Remote)
+`2025`
+
+Performed exploratory data analysis on restaurant datasets using Python, generating insights on ratings, trends, and geographic distribution.
+
+- Conducted EDA across large restaurant datasets
+- Surfaced rating trends and geographic distribution patterns
+- Delivered data-driven insights using Python
+
+`Python` `EDA` `Data Analysis` `Pandas`
+
+<br/>
+
+**Data Analyst Intern** · Amdox Technologies
+`2025`
+
+Analyzed cryptocurrency market trends using historical data to identify volatility and pricing patterns.
+
+- Performed EDA on historical cryptocurrency data
+- Identified volatility trends and price patterns
+- Built analytical foundations for trend forecasting
+
+`Python` `EDA` `Data Analysis` `Finance Analytics`
 
 ---
 
-### Connect With Me
+## Achievements
 
-<p>
-  <a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-Niharxd-181717?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/nihar-patra-2277np/"><img src="https://img.shields.io/badge/LinkedIn-Nihar_Patra-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Email-niharpatra2277@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Google Cloud Career Launchpad | Generative AI Leader Track — Google Cloud (Apr 2026) |
+| GHG Platform ML Accuracy | Achieved 99.7% test accuracy on emissions prediction |
+| Multi-Region Emissions Modeling | Engineered features across 6 global regions |
+| Cultural Heritage Pipeline | Designed a 6-stage detection-to-explainability AI system |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niharxd&style=flat&color=grey" alt="Profile views" />
-</p>
+## Certifications
+
+<div align="center">
+
+**Google Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Generative%20AI%20Leader%20Track-Google%20Cloud%20Career%20Launchpad-10B981?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/5--Day%20AI%20Agents%20Intensive-Kaggle%20x%20Google-10B981?style=flat-square&logo=kaggle&logoColor=white" />
+
+<br/><br/>
+
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/GHG%20Accounting%20for%20IT-Cisco%20Networking%20Academy-14B8A6?style=flat-square&logo=cisco&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco%20Networking%20Academy-14B8A6?style=flat-square&logo=cisco&logoColor=white" />
+
+<br/><br/>
+
+**Others**
+<br/>
+<img src="https://img.shields.io/badge/UX%20Certification-Coursera-34D399?style=flat-square&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-Forage%20x%20Quantium-34D399?style=flat-square&logo=forage&logoColor=white" />
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Nihar_Patra/"><img src="https://img.shields.io/badge/LeetCode-3D1635?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/niharpatgy27"><img src="https://img.shields.io/badge/GeeksforGeeks-0D3B36?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Nihar_Patra/"><img src="https://leetcode-stats-badge-nnxk.vercel.app/api?username=Nihar_Patra&theme=dark" /></a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niharxd&hide_border=true&background=071A1D&ring=10B981&fire=14B8A6&currStreakLabel=14B8A6&sideNums=CCFBF1&sideLabels=34D399&dates=34D399&currStreakNum=CCFBF1&stroke=0D3B36" width="70%"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharxd&custom_title=Contribution%20Activity&bg_color=071A1D&color=14B8A6&line=10B981&point=CCFBF1&area=true&area_color=0D3B36&title_color=CCFBF1&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Niharxd/Niharxd/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced Deep Learning & Transformer architectures
+  - System Design at scale
+  - Cloud-native ML deployment
+
+Building:
+  - AI-powered full-stack products
+  - End-to-end ML pipelines with explainability
+  - Real-time data-driven web applications
+
+Exploring:
+  - Generative AI & Agentic systems
+  - Cloud sustainability engineering
+  - Applied computer vision
+
+Open To:
+  - Full Stack Developer roles
+  - AI/ML Engineer roles
+  - Collaborative open-source projects
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-0D3B36?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-3D1635?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems that turn data into decisions."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2E29,50:0D3B36,100:071A1D&height=150&section=footer" width="100%"/>
+
+</div>
