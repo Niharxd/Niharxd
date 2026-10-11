@@ -257,7 +257,7 @@ CGPA: 8.07
 ## GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharxd&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFD700&area=true&area_color=D4AF37&title_color=D4AF37&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharxd&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ## Contribution Snake
