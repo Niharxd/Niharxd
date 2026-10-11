@@ -257,7 +257,9 @@ CGPA: 8.07
 ## GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharxd&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/Niharxd?tab=overview">
+    <img src="https://img.shields.io/badge/View%20My%20Contribution%20Calendar-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="View GitHub contribution calendar" />
+  </a>
 </p>
 
 ## Contribution Snake
