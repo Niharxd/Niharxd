@@ -1,59 +1,36 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1D,50:0D3B36,100:0A2E29&height=220&section=header&text=Nihar%20Ranjan%20Patra&fontSize=42&fontColor=CCFBF1&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0D3B4A,100:0F766E&height=210&section=header&text=Nihar%20Ranjan%20Patra&fontSize=42&fontColor=F0FDFA&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%2FML&descAlignY=59&descSize=18" width="100%" alt="Nihar Ranjan Patra profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI%2FML+Pipelines+%26+Systems;Turning+Data+into+Intelligent+Products;B.Tech+CSE+(Data+Science)+%40+CVRGU" alt="Typing SVG" />
+<p>
+  <a href="https://portfolio-nihar-patra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-Niharxd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=Building+useful+full-stack+products;Turning+data+into+actionable+insights;Applying+AI%2FML+to+real-world+problems;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated tagline"/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(Data%20Science)-10B981?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20Odisha-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/Portfolio-3D1635?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-0D3B36?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-34D399?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Niharxd&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Niharxd?style=for-the-badge&color=34D399&label=FOLLOWERS&logo=github" />
-<img src="https://img.shields.io/github/stars/Niharxd?style=for-the-badge&color=10B981&label=STARS" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Niharxd&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Niharxd?style=flat-square&color=0F766E&label=FOLLOWERS" alt="GitHub followers"/>
+</p>
 
 </div>
-
-<br/>
 
 ---
 
 ## About Me
 
-```yaml
-name: Nihar Ranjan Patra
-role: Full Stack Developer & AI/ML Engineer
-education: B.Tech, Computer Science (Data Science) @ C.V. Raman Global University
-location: Bhubaneswar, Odisha, India
-```
+I'm **Nihar Ranjan Patra**, a final-year **B.Tech Computer Science (Data Science)** student at **C.V. Raman Global University**, graduating in **2027**.
 
-I'm a **Full Stack Developer** with strong hands-on experience building **scalable web applications** and **AI-powered systems**. I work across the entire stack — from crafting responsive frontend interfaces to designing robust backend APIs, real-time systems, and end-to-end **machine learning pipelines**.
+I enjoy building complete products - from responsive React and TypeScript interfaces to FastAPI services, data pipelines, and applied machine-learning workflows. My projects explore cultural heritage preservation, sustainability, and financial analytics.
 
-I approach engineering with a **product mindset** — not just writing code, but shipping systems that solve real-world problems through data-driven, intelligent design. My recent work spans computer-vision-based heritage preservation, cloud carbon accounting with ML-driven emissions prediction, and applied NLP/OCR pipelines.
-
-<table align="center">
-<tr>
-<td>
-
-**Open To**
-- Full Stack Developer roles
-- AI/ML Engineering roles
-- Open source collaboration
-- Freelance product builds
-
-</td>
-</tr>
-</table>
+- **Building:** Full-stack applications and data-driven tools
+- **Interested in:** Applied AI/ML, computer vision, analytics, and backend engineering
+- **Data work:** ETL pipelines, exploratory analysis, financial metrics, and dashboards
+- **Open to:** Software development, data/AI opportunities, and collaborative projects
+- **Based in:** Bhubaneswar, Odisha, India
 
 ---
 
@@ -61,38 +38,11 @@ I approach engineering with a **product mindset** — not just writing code, but
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,r&theme=dark" />
+| Languages | Frontend | Backend & APIs | Data & ML | Databases & Tools |
+|---|---|---|---|---|
+| Python · SQL · R · JavaScript · TypeScript | React · Vite · HTML · CSS | FastAPI · Flask · REST APIs | Pandas · NumPy · Scikit-learn · OpenCV · NLP · OCR | MySQL · PostgreSQL · SQLite · Git · GitHub |
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,html,css,vite&theme=dark" />
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postgres&theme=dark" />
-
-**Cloud, DevOps & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark" />
-
-</div>
-
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-learn, Linear Regression, Random Forest, model auto-selection |
-| Deep Learning | ⭐⭐⭐☆☆ | PyTorch fundamentals, applied model training |
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV — damage/defect detection, severity scoring |
-| OCR & NLP | ⭐⭐⭐☆☆ | Tesseract OCR (multi-language), applied NLP pipelines |
-| Explainable AI | ⭐⭐⭐☆☆ | Interpretable risk prediction, anomaly & efficiency scoring |
-| Data Analysis | ⭐⭐⭐⭐☆ | EDA, trend analysis, geographic & time-series insights |
+<img src="https://skillicons.dev/icons?i=python,js,ts,r,react,vite,html,css,fastapi,flask,mysql,postgres,sqlite,git,github,vscode&theme=dark" alt="Technologies and tools" />
 
 </div>
 
@@ -100,156 +50,126 @@ I approach engineering with a **product mindset** — not just writing code, but
 
 ## Featured Projects
 
-<details open>
-<summary><b>Heritage AI — AI-Based Cultural Heritage Preservation System</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Full-stack platform for analyzing cultural artifacts using a 6-stage AI pipeline covering detection, enhancement, prediction, and explainability. Combines computer vision with interpretable ML to help preserve heritage sites and objects.
+### Heritage AI
+**AI-Based Cultural Heritage Preservation**
 
-| Category | Details |
-|---|---|
-| **Stack** | React, FastAPI, OpenCV, OCR |
-| **Scale** | 6-stage end-to-end pipeline |
-| **Performance** | Real-time damage detection & severity scoring |
-| **Security** | Interpretable, auditable prediction outputs |
-| **Impact** | Automated cultural artifact risk assessment |
-| **Repository** | [github.com/Niharxd](https://github.com/Niharxd) |
+A full-stack tool that helps analyze cultural artifacts with computer vision and interpretable risk indicators.
 
-Built with a strong focus on damage detection — identifying cracks, stains, erosion, and fading via OpenCV, layered with multi-language OCR and an interpretable risk-prediction system. The frontend delivers a full analysis dashboard with archive, comparison, and export tooling for researchers and conservators.
+- Six-stage workflow for detection, enhancement, prediction, and explainability
+- OpenCV-based indicators for cracks, stains, erosion, and fading
+- Multi-language OCR and severity scoring
+- Dashboard with archive, comparison, and export features
 
-</details>
+**Stack:** React · FastAPI · OpenCV · OCR
 
-<details>
-<summary><b>GHG Platform — Cloud Carbon Accounting & Emissions Intelligence System</b></summary>
-<br/>
+[Live Demo](https://heritage-ai-niharxds-projects.vercel.app/) · [Source Code](https://github.com/Niharxd/HeritageAI)
 
-A full-stack carbon emissions tracker that models infrastructure emissions across global regions, combining secure authentication with an ML-driven prediction engine.
+</td>
+<td width="50%" valign="top">
 
-| Category | Details |
-|---|---|
-| **Stack** | React, FastAPI, MySQL, JWT Auth |
-| **Scale** | 6 global regions (India, US, China, Germany, Sweden, France) |
-| **Performance** | 99.7% test accuracy on emissions prediction |
-| **Security** | JWT-authenticated, role-based access |
-| **Impact** | Sustainability & efficiency scoring per prediction |
-| **Repository** | [github.com/Niharxd](https://github.com/Niharxd) |
+### GHG Platform
+**Cloud Carbon Accounting & Emissions Intelligence**
 
-Engineered an ML pipeline comparing Linear Regression against Random Forest with automatic model selection, using features like CPU, RAM, storage, and regional carbon intensity. Includes anomaly detection, PDF report generation, and per-prediction sustainability scoring.
+A sustainability platform for estimating infrastructure emissions and surfacing efficiency insights.
 
-</details>
+- React and FastAPI application with MySQL and JWT authentication
+- ML pipeline comparing Linear Regression and Random Forest
+- Features include CPU, RAM, storage, and regional carbon intensity
+- Anomaly detection, sustainability scoring, and PDF reports
+
+**Stack:** React · FastAPI · MySQL · Scikit-learn
+
+[Live Demo](https://carbon-accounting-two.vercel.app/) · [Source Code](https://github.com/Niharxd/Carbon-Accounting)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Mutual Fund Analytics Platform
+**Financial Data Engineering & Analytics**
+
+Built during my Bluestock Fintech internship as a capstone analytics project.
+
+- ETL pipeline processing **46,000+ NAV records**
+- **32,000+ investor transactions** across 40 AMFI schemes
+- Risk and performance measures including Sharpe, Sortino, Alpha, Beta, VaR, and maximum drawdown
+- Four-page Power BI dashboard
+
+**Stack:** Python · Pandas · SQLAlchemy · SQLite · Power BI
+
+</td>
+<td width="50%" valign="top">
+
+### N100 Financial Intelligence Platform
+**Company-Level Financial Analytics**
+
+A financial analysis platform focused on the Nifty 100 universe.
+
+- 30+ financial KPIs and a composite 0-100 health score
+- 18-filter investment screener across 92 companies
+- Automated company and sector PDF reports
+- Full-universe Excel export
+
+**Stack:** Python · Pandas · Financial Analysis · Excel · PDF reporting
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-**Data Analyst Intern** · Cognifyz Technologies (Remote)
-`2025`
+**Data Analyst Intern - Bluestock Fintech** · *May-July 2026*
+- Built a mutual fund analytics capstone using NAV and investor transaction data.
+- Worked on risk/performance metrics and a four-page Power BI dashboard.
+- Contributed to the N100 Financial Intelligence Platform with company KPIs, screening, and automated reporting.
 
-Performed exploratory data analysis on restaurant datasets using Python, generating insights on ratings, trends, and geographic distribution.
+**Data Analyst Intern - Amdox Technologies** · *January 2026*
+- Explored historical cryptocurrency prices to identify volatility, short-term trends, and anomalies.
 
-- Conducted EDA across large restaurant datasets
-- Surfaced rating trends and geographic distribution patterns
-- Delivered data-driven insights using Python
-
-`Python` `EDA` `Data Analysis` `Pandas`
-
-<br/>
-
-**Data Analyst Intern** · Amdox Technologies
-`2025`
-
-Analyzed cryptocurrency market trends using historical data to identify volatility and pricing patterns.
-
-- Performed EDA on historical cryptocurrency data
-- Identified volatility trends and price patterns
-- Built analytical foundations for trend forecasting
-
-`Python` `EDA` `Data Analysis` `Finance Analytics`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Google Cloud Career Launchpad | Generative AI Leader Track — Google Cloud (Apr 2026) |
-| GHG Platform ML Accuracy | Achieved 99.7% test accuracy on emissions prediction |
-| Multi-Region Emissions Modeling | Engineered features across 6 global regions |
-| Cultural Heritage Pipeline | Designed a 6-stage detection-to-explainability AI system |
-
-</div>
+**Data Analyst Intern - Cognifyz Technologies (Remote)** · *December 2025*
+- Analyzed restaurant ratings, cuisine patterns, and geographic distributions using Python and Pandas.
 
 ---
 
 ## Certifications
 
-<div align="center">
+- Google Cloud Career Launchpad - Generative AI Leader Track
+- Introduction to Greenhouse Gas Accounting for IT - Cisco Networking Academy
+- 5-Day AI Agents Intensive Course - Google & Kaggle
+- Google UX Certification - Coursera
+- Data Analytics Essentials - Cisco Networking Academy
+- Quantium Data Analytics Job Simulation - Forage
 
-**Google Cloud**
-<br/>
-<img src="https://img.shields.io/badge/Generative%20AI%20Leader%20Track-Google%20Cloud%20Career%20Launchpad-10B981?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/5--Day%20AI%20Agents%20Intensive-Kaggle%20x%20Google-10B981?style=flat-square&logo=kaggle&logoColor=white" />
+---
 
-<br/><br/>
+## Education
 
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/GHG%20Accounting%20for%20IT-Cisco%20Networking%20Academy-14B8A6?style=flat-square&logo=cisco&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Data%20Analytics%20Essentials-Cisco%20Networking%20Academy-14B8A6?style=flat-square&logo=cisco&logoColor=white" />
-
-<br/><br/>
-
-**Others**
-<br/>
-<img src="https://img.shields.io/badge/UX%20Certification-Coursera-34D399?style=flat-square&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics%20Job%20Simulation-Forage%20x%20Quantium-34D399?style=flat-square&logo=forage&logoColor=white" />
-
-</div>
+**B.Tech - Computer Science (Data Science)**  
+C.V. Raman Global University · **2027**  
+**CGPA: 8.07**
 
 ---
 
 ## Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Nihar_Patra/"><img src="https://img.shields.io/badge/LeetCode-3D1635?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/profile/niharpatgy27"><img src="https://img.shields.io/badge/GeeksforGeeks-0D3B36?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/Nihar_Patra/"><img src="https://leetcode-stats-badge-nnxk.vercel.app/api?username=Nihar_Patra&theme=dark" /></a>
-
-</div>
-
----
-
-## GitHub Analytics
+<p>
+  <a href="https://leetcode.com/u/Nihar_Patra/"><img src="https://img.shields.io/badge/LeetCode-Nihar__Patra-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/niharpatgy27"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niharxd&hide_border=true&background=071A1D&ring=10B981&fire=14B8A6&currStreakLabel=14B8A6&sideNums=CCFBF1&sideLabels=34D399&dates=34D399&currStreakNum=CCFBF1&stroke=0D3B36" width="70%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Niharxd&show_icons=true&hide_border=true&bg_color=07111F&title_color=2DD4BF&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharxd&layout=compact&hide_border=true&bg_color=07111F&title_color=2DD4BF&text_color=E2E8F0" alt="Most used languages"/>
 
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharxd&custom_title=Contribution%20Activity&bg_color=071A1D&color=14B8A6&line=10B981&point=CCFBF1&area=true&area_color=0D3B36&title_color=CCFBF1&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Niharxd/Niharxd/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niharxd&hide_border=true&background=07111F&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -257,47 +177,16 @@ Analyzed cryptocurrency market trends using historical data to identify volatili
 
 ## Current Focus
 
-```yaml
-Learning:
-  - Advanced Deep Learning & Transformer architectures
-  - System Design at scale
-  - Cloud-native ML deployment
-
-Building:
-  - AI-powered full-stack products
-  - End-to-end ML pipelines with explainability
-  - Real-time data-driven web applications
-
-Exploring:
-  - Generative AI & Agentic systems
-  - Cloud sustainability engineering
-  - Applied computer vision
-
-Open To:
-  - Full Stack Developer roles
-  - AI/ML Engineer roles
-  - Collaborative open-source projects
-```
-
----
-
-## Connect With Me
+- Strengthening data structures and algorithms
+- Building robust full-stack applications
+- Improving applied machine-learning and data-pipeline skills
+- Learning system design and reliable deployment practices
 
 <div align="center">
 
-<a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-0D3B36?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-3D1635?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+**Thanks for visiting!**  
+*Build thoughtfully. Learn continuously. Make useful things.*
 
-</div>
-
----
-
-<div align="center">
-
-*"Building intelligent systems that turn data into decisions."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2E29,50:0D3B36,100:071A1D&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:0D3B4A,100:07111F&height=110&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
