@@ -152,6 +152,7 @@ A document processing system that classifies documents into legal, medical, or t
 **Stack:** Python 3.13, PySpark, Cohere API, Gradio, Grafana.
 
 <p align="center">
+  <a href="https://document-summarizer-9vwi.onrender.com/"><strong>Live Demo</strong></a> |
   <a href="https://github.com/Niharxd/Document-Summarizer"><strong>Source Code</strong></a>
 </p>
 
