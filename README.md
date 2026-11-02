@@ -1,7 +1,8 @@
+
 # Nihar Ranjan Patra
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20%26%20Data%20Science&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
 </p>
 
 <p align="center">
@@ -20,39 +21,44 @@
 
 ## About Me
 
-Final-year B.Tech student in Computer Science and Engineering (Data Science) at C.V. Raman Global University, graduating in 2027.
+Computer Science (Data Science) student at C.V. Raman Global University, graduating in 2027, with hands-on experience building end-to-end applications spanning frontend development, backend engineering, applied machine learning, and data analytics.
 
-I build practical applications across full-stack development, data analytics, machine learning, and computer vision, with an emphasis on useful features, maintainable code, and real-world applications.
+I enjoy developing practical solutions involving computer vision, document processing, LLM integration, and data engineering, with an emphasis on maintainable code and real-world applications.
 
 - **CGPA:** 8.07
-- **Focus:** Software Development, Data Science, Applied AI
-- **Languages:** Python, Java, JavaScript, SQL
-- **Interests:** Backend Engineering, Machine Learning, Data Analytics
+- **Focus:** Full-Stack Development, Applied AI, Data Science
+- **Programming:** Python, SQL, R
+- **Interests:** Backend Engineering, Computer Vision, Machine Learning, Data Analytics
 
-## Technology
+## Technical Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r&perline=5" height="32" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css&perline=6" height="32" alt="Programming languages" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,fastapi,flask&perline=6" height="32" alt="Frontend and backend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,flask&perline=5" height="32" alt="Frontend and backend technologies" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,linux&perline=7" height="32" alt="Databases and development tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&perline=6" height="32" alt="Databases and development tools" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black" alt="SciPy" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Scikit--learn-B89632?style=flat-square&logo=scikitlearn&logoColor=black" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&logo=cohere&logoColor=white" alt="Cohere" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jupyter-B89632?style=flat-square&logo=jupyter&logoColor=black" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
+
+**Core Concepts:** REST APIs, JWT Authentication, LLM Integration, Prompt Engineering, NLP, Computer Vision, OCR, Machine Learning, Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks.
 
 ---
 
@@ -63,20 +69,45 @@ I build practical applications across full-stack development, data analytics, ma
 <td width="50%" valign="top">
 
 <h3>
+  <img src="./assets/AgentForge Gradient Circuit Badge.png" height="30" alt="AgentForge logo" align="absmiddle" />
+  AgentForge
+</h3>
+
+**Autonomous AI Workflow Orchestration Platform**
+
+An ongoing project exploring how specialized AI agents can collaborate to plan, execute, and monitor complex workflows.
+
+- Designing a multi-agent architecture with Planner, Researcher, Analyst, and Reviewer agents.
+- Established the backend API and frontend dashboard foundations.
+- Designed database models for workflows, executions, approval requests, and audit events.
+- Implemented database migrations and automated tests.
+- Building towards controlled tool execution, human approvals, and workflow monitoring.
+
+**Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic, Pydantic.
+
+<p>
+  <a href="https://github.com/Niharxd/Agent-Forage">Source Code</a> ·
+  <img src="https://img.shields.io/badge/Status-In%20Progress-6C63FF?style=flat-square" alt="In progress" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>
   <img src="./assets/Heritage-AI.png" height="30" alt="Heritage AI logo" align="absmiddle" />
   Heritage AI
 </h3>
 
-**AI-Assisted Cultural Heritage Preservation**
+**Computer Vision & Applied AI for Cultural Heritage Preservation**
 
-A full-stack application for preliminary visual assessment and documentation of cultural heritage structures.
+A full-stack application for visual assessment and documentation of cultural heritage structures.
 
-- Image processing and damage indicators using OpenCV.
-- Visualizations and rule-based risk assessment.
-- Multilingual OCR and saved assessment records.
-- Decision support, not professional structural diagnosis.
+- Built a six-stage image analysis pipeline covering detection, enhancement, prediction, and explainability.
+- Implemented OpenCV-based damage detection for cracks, stains, erosion, and fading, with per-image severity scoring.
+- Integrated multilingual OCR and explainable risk prediction.
+- Developed the analysis dashboard, archive, comparison tools, and export functionality.
 
-**Stack:** Python, FastAPI, React, TypeScript, OpenCV, PyTorch.
+**Stack:** Python, FastAPI, React, TypeScript, OpenCV, PyTorch, OCR.
 
 <p>
   <a href="https://heritage-ai-niharxds-projects.vercel.app/">Live Demo</a> ·
@@ -84,6 +115,9 @@ A full-stack application for preliminary visual assessment and documentation of 
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <h3>
@@ -91,14 +125,14 @@ A full-stack application for preliminary visual assessment and documentation of 
   GHG Platform
 </h3>
 
-**Carbon Accounting and Emissions Analytics**
+**Cloud Carbon Accounting & Emissions Intelligence**
 
-A full-stack platform for greenhouse gas emissions tracking, analysis, and machine learning-based prediction.
+A full-stack platform for greenhouse gas emissions tracking, analytics, and machine learning-based prediction.
 
-- Emissions data management and analysis.
-- JWT-based authentication.
-- Linear Regression and Random Forest comparison.
-- Reports 99.7% test accuracy in the evaluated prediction workflow.
+- Built emissions tracking with JWT authentication and PDF report generation.
+- Developed a Linear Regression vs. Random Forest pipeline with automatic model selection, achieving 99.7% test accuracy in the evaluated prediction workflow.
+- Engineered CPU, RAM, storage, and regional carbon-intensity features across six regions.
+- Implemented anomaly detection, efficiency scoring, and sustainability scoring.
 
 **Stack:** Python, FastAPI, React, TypeScript, MySQL, Scikit-learn.
 
@@ -108,8 +142,6 @@ A full-stack platform for greenhouse gas emissions tracking, analysis, and machi
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3>
@@ -117,23 +149,26 @@ A full-stack platform for greenhouse gas emissions tracking, analysis, and machi
   Document Summarizer
 </h3>
 
-**Domain-Aware AI Document Summarization**
+**AI-Powered Document Processing & Summarization**
 
-A document processing system that classifies documents into legal, medical, or technical domains and generates context-specific summaries.
+A document processing application that extracts and preprocesses text before generating summaries using an LLM API.
 
-- Extracts text from PDF, DOCX, and TXT files.
-- Uses Cohere API with domain-specific prompts.
-- PySpark ETL for cleaning, entity extraction, and quality metrics.
-- Gradio interface and Grafana metrics dashboards.
+- Built document extraction and preprocessing for multiple document formats.
+- Integrated Cohere API for LLM-based summarization.
+- Developed a document-processing ETL pipeline with Python and PySpark components.
+- Prepared document data for context-aware summarization.
 
-**Stack:** Python 3.13, PySpark, Cohere API, Gradio, Grafana.
+**Stack:** Python, PySpark, Cohere API, NLP, ETL.
 
 <p>
-  <a href="https://document-summarizer-9vwi.onrender.com/"><strong>Live Demo</strong></a> ·
+  <a href="https://document-summarizer-9vwi.onrender.com/">Live Demo</a> ·
   <a href="https://github.com/Niharxd/Document-Summarizer">Source Code</a>
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <h3>
@@ -159,6 +194,9 @@ A research project exploring crop image analysis and environmental data for crop
 <sub>Research prototype. Irrigation rules have not been validated against field outcomes.</sub>
 
 </td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
 
@@ -167,24 +205,26 @@ A research project exploring crop image analysis and environmental data for crop
 ## Experience
 
 ### Bluestock Fintech
-**Data Analytics Intern** · May 2026 – July 2026
+**Data Analyst Intern · Remote** | May 2026 – July 2026
 
-- Built data processing workflows using Python, Pandas, SQLAlchemy, and SQLite.
-- Processed more than 46,000 NAV records and 32,000 investor transactions across 40 AMFI schemes.
-- Analyzed Sharpe Ratio, Sortino Ratio, Alpha, Beta, Value at Risk, and Maximum Drawdown.
-- Developed Power BI dashboards and a financial intelligence workflow for Nifty 100 company analysis.
+- Built a Mutual Fund Analytics Platform using a Python ETL pipeline with Pandas, SQLAlchemy, and SQLite.
+- Processed 46,000+ NAV records and 32,000+ investor transactions across 40 AMFI schemes.
+- Computed financial risk and performance metrics including Sharpe Ratio, Sortino Ratio, Alpha, Beta, Value at Risk, and Maximum Drawdown.
+- Presented analytical findings through a four-page Power BI dashboard.
 
 ### Amdox Technologies
-**Data Analytics Intern** · January 2026
+**Data Analyst Intern** | January 2026
 
-- Performed exploratory data analysis on cryptocurrency data.
-- Used Python-based data processing and visualization to explore patterns and trends.
+- Analyzed historical price data across multiple cryptocurrencies.
+- Identified volatility patterns, short-term trends, and anomalies.
+- Presented findings through data analysis and visualizations.
 
 ### Cognifyz Technologies
-**Data Analytics Intern** · December 2025
+**Data Analyst Intern · Remote** | December 2025
 
-- Performed exploratory data analysis on restaurant data.
-- Used Python and visualization techniques to investigate ratings and dataset characteristics.
+- Performed exploratory data analysis on a real-world restaurant dataset using Pandas and Matplotlib.
+- Identified trends across ratings, cuisine types, and geographical distributions.
+- Summarized analytical findings in a report for the team.
 
 ---
 
@@ -194,10 +234,10 @@ A research project exploring crop image analysis and environmental data for crop
 |---|---|---|
 | Generative AI Leader Track | Google Cloud Career Launchpad | Apr 2026 |
 | Introduction to Greenhouse Gas Accounting for IT | Cisco Networking Academy | Apr 2026 |
-| 5-Day AI Agents Intensive Course | Kaggle | Dec 2025 |
+| 5-Day AI Agents Intensive Course with Google | Kaggle | Dec 2025 |
 | User Experience (UX) Design | Coursera | Nov 2025 |
 | Data Analytics Essentials | Cisco Networking Academy | Jul 2025 |
-| Quantium Data Analytics Virtual Experience | Forage | Jun 2025 |
+| Quantium Data Analytics Job Simulation | Forage | Jun 2025 |
 
 ---
 
@@ -205,9 +245,14 @@ A research project exploring crop image analysis and environmental data for crop
 
 **C.V. Raman Global University**
 
-B.Tech in Computer Science and Engineering (Data Science)  
+B.Tech in Computer Science (Data Science)  
 Expected Graduation: 2027  
 **CGPA:** 8.07
+
+**Kendriya Vidyalaya**
+
+- Class XII – PCM | 71.5% | 2023
+- Class X | 90.3% | 2021
 
 ---
 
@@ -215,7 +260,6 @@ Expected Graduation: 2027
 
 <p>
   <a href="https://leetcode.com/u/Nihar_Patra/">LeetCode</a> ·
-  <a href="https://www.geeksforgeeks.org/user/niharpatgy27/">GeeksforGeeks</a> ·
   <a href="https://github.com/Niharxd">GitHub</a>
 </p>
 
@@ -236,11 +280,12 @@ Expected Graduation: 2027
 
 ## Current Focus
 
+- Developing AgentForge and exploring multi-agent workflow orchestration.
 - Strengthening Data Structures and Algorithms.
-- Building practical full-stack applications with Python and React.
-- Improving machine learning, computer vision, and data analytics skills.
-- Learning system design, backend engineering, and database optimization.
-- Developing projects with clear documentation and maintainable code.
+- Building reliable backend services and full-stack applications.
+- Exploring applied AI, LLM integration, computer vision, and NLP.
+- Improving data engineering, analytics, and database optimization.
+- Building projects with clean architecture, testing, and maintainable code.
 
 ---
 
