@@ -1,8 +1,7 @@
-
 # Nihar Ranjan Patra
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20%26%20Data%20Science&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
 </p>
 
 <p align="center">
@@ -52,13 +51,13 @@ I enjoy developing practical solutions involving computer vision, document proce
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Scikit--learn-B89632?style=flat-square&logo=scikitlearn&logoColor=black" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&logo=cohere&logoColor=white" alt="Cohere" />
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square" alt="Cohere" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
-**Core Concepts:** REST APIs, JWT Authentication, LLM Integration, Prompt Engineering, NLP, Computer Vision, OCR, Machine Learning, Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks.
+**Core Concepts:** REST APIs, JWT Authentication, LLM Integration, Prompt Engineering, NLP, Computer Vision, OCR, Machine Learning, Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks.
 
 ---
 
@@ -69,7 +68,7 @@ I enjoy developing practical solutions involving computer vision, document proce
 <td width="50%" valign="top">
 
 <h3>
-  <img src="./assets/AgentForge Gradient Circuit Badge.png" height="30" alt="AgentForge logo" align="absmiddle" />
+  <img src="./assets/AgentForge%20Gradient%20Circuit%20Badge.png" height="30" alt="AgentForge logo" align="absmiddle" />
   AgentForge
 </h3>
 
@@ -98,7 +97,7 @@ An ongoing project exploring how specialized AI agents can collaborate to plan, 
   Heritage AI
 </h3>
 
-**Computer Vision & Applied AI for Cultural Heritage Preservation**
+**Computer Vision and Applied AI for Cultural Heritage Preservation**
 
 A full-stack application for visual assessment and documentation of cultural heritage structures.
 
@@ -125,7 +124,7 @@ A full-stack application for visual assessment and documentation of cultural her
   GHG Platform
 </h3>
 
-**Cloud Carbon Accounting & Emissions Intelligence**
+**Cloud Carbon Accounting and Emissions Intelligence**
 
 A full-stack platform for greenhouse gas emissions tracking, analytics, and machine learning-based prediction.
 
@@ -149,7 +148,7 @@ A full-stack platform for greenhouse gas emissions tracking, analytics, and mach
   Document Summarizer
 </h3>
 
-**AI-Powered Document Processing & Summarization**
+**AI-Powered Document Processing and Summarization**
 
 A document processing application that extracts and preprocesses text before generating summaries using an LLM API.
 
@@ -268,12 +267,12 @@ Expected Graduation: 2027
 ## GitHub Analytics
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=Niharxd&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B89632&icon_color=B89632&text_color=D6D0C4" alt="GitHub statistics" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharxd&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B89632&text_color=D6D0C4&langs_count=5" alt="Most used languages" />
+  <img height="165" src="./profile-cards/stats.svg" alt="GitHub statistics" />
+  <img height="165" src="./profile-cards/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img height="145" src="https://streak-stats.demolab.com?user=Niharxd&hide_border=true&background=0D0D0D&ring=B89632&fire=B89632&currStreakLabel=B89632&sideLabels=D6D0C4&currStreakNum=F5F0E5&sideNums=D6D0C4&dates=777777" alt="GitHub contribution streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Niharxd&hide_border=true&border_radius=6&background=0D0D0D&ring=B89632&fire=B89632&currStreakLabel=B89632&sideLabels=D6D0C4&currStreakNum=F5F0E5&sideNums=D6D0C4&dates=777777" alt="GitHub contribution streak" />
 </p>
 
 ---
