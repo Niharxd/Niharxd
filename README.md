@@ -240,4 +240,76 @@ A research project exploring crop image analysis and environmental data for crop
 | 5-Day AI Agents Intensive Course with Google | Kaggle | Dec 2025 |
 | User Experience (UX) Design | Coursera | Nov 2025 |
 | Data Analytics Essentials | Cisco Networking Academy | Jul 2025 |
-| Quantium Data Analytics Job
+| Quantium Data Analytics Job Simulation | Forage | Jun 2025 |
+
+---
+
+## Education
+
+**C.V. Raman Global University**
+
+B.Tech in Computer Science (Data Science)  
+Expected Graduation: 2027  
+**CGPA:** 8.07
+
+**Kendriya Vidyalaya**
+
+- Class XII – PCM | 71.5% | 2023
+- Class X | 90.3% | 2021
+
+---
+
+## Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/Nihar_Patra/">LeetCode</a> ·
+  <a href="https://github.com/Niharxd">GitHub</a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="./profile-cards/stats.svg" alt="GitHub statistics" />
+  <img height="165" src="./profile-cards/languages.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Niharxd&hide_border=true&border_radius=6&background=0D0D0D&ring=B89632&fire=B89632&currStreakLabel=B89632&sideLabels=D6D0C4&currStreakNum=F5F0E5&sideNums=D6D0C4&dates=777777" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Niharxd/Niharxd/output/github-snake.svg" alt="Contribution snake" />
+</p>
+
+---
+
+## Current Focus
+
+<p align="center">
+  <img src="./profile-cards/building.svg" alt="Currently building" />
+</p>
+
+- Developing AgentForge and exploring multi-agent workflow orchestration.
+- Strengthening Data Structures and Algorithms.
+- Building reliable backend services and full-stack applications.
+- Exploring applied AI, LLM integration, computer vision, and NLP.
+- Improving data engineering, analytics, and database optimization.
+- Building projects with clean architecture, testing, and maintainable code.
+
+---
+
+<p align="center">
+  <sub>Building practical solutions through code, data, and continuous learning.</sub>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-nihar-patra.vercel.app/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/nihar-patra-2277np">LinkedIn</a> ·
+  <a href="mailto:niharpatra2277@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:080808,50:302800,100:B89632&section=footer&animation=twinkling" width="100%" alt="Gold footer" />
+</p>
