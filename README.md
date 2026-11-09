@@ -1,7 +1,11 @@
 # Nihar Ranjan Patra
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1200&color=B89632&center=true&vCenter=true&width=640&height=45&lines=Full-Stack+Developer;Applied+AI+and+Data+Science;Building+practical+solutions+with+code+and+data" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -273,6 +277,10 @@ Expected Graduation: 2027
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Niharxd&hide_border=true&border_radius=6&background=0D0D0D&ring=B89632&fire=B89632&currStreakLabel=B89632&sideLabels=D6D0C4&currStreakNum=F5F0E5&sideNums=D6D0C4&dates=777777" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Niharxd/Niharxd/output/github-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
