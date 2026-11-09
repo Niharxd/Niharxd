@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="60" viewBox="0 0 495 60">
+  <rect width="495" height="60" rx="6" fill="#0D0D0D"/>
+  <circle cx="30" cy="30" r="6" fill="#B89632">
+    <animate attributeName="r" values="5;8;5" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="50" y="35" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" fill="#D6D0C4">Currently building: AgentForge (multi-agent workflows)</text>
+</svg>
