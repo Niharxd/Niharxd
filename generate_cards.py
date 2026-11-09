@@ -74,7 +74,7 @@ for i, (label, value) in enumerate(rows):
     body += f'<text x="50" y="{y}" font-family="{FONT}" font-size="14" fill="{TEXT}">{escape(label)}</text>'
     body += f'<text x="440" y="{y}" font-family="{FONT}" font-size="14" font-weight="600" fill="{TEXT}" text-anchor="end">{value}</text>'
 
-# Languages card
+# Languages card (bars grow in one after another)
 lbody = ""
 for i, (name, size) in enumerate(top):
     y = 68 + i * 24
@@ -83,7 +83,7 @@ for i, (name, size) in enumerate(top):
     opacity = 1 - i * 0.15
     lbody += f'<text x="30" y="{y + 4}" font-family="{FONT}" font-size="13" fill="{TEXT}">{escape(name)}</text>'
     lbody += f'<rect x="150" y="{y - 6}" width="250" height="10" rx="5" fill="#1C1C1C"/>'
-    lbody += f'<rect x="150" y="{y - 6}" width="{bar:.1f}" height="10" rx="5" fill="{GOLD}" opacity="{opacity:.2f}"/>'
+    lbody += f'<rect x="150" y="{y - 6}" width="0" height="10" rx="5" fill="{GOLD}" opacity="{opacity:.2f}"><animate attributeName="width" from="0" to="{bar:.1f}" dur="1.2s" begin="{i * 0.15:.2f}s" fill="freeze"/></rect>'
     lbody += f'<text x="465" y="{y + 4}" font-family="{FONT}" font-size="12" fill="{MUTED}" text-anchor="end">{pct:.1f}%</text>'
 
 os.makedirs("profile-cards", exist_ok=True)
