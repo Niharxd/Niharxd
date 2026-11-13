@@ -1,7 +1,7 @@
 # Nihar Ranjan Patra
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=58&descSize=16" width="100%" alt="Nihar Ranjan Patra" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&font=Playfair%20Display&fontColor=F5F0E5&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=58&descSize=16" width="100%" alt="Nihar Ranjan Patra" />
 </p>
 
 <p align="center">
@@ -172,6 +172,8 @@ A document processing application that extracts and preprocesses text before gen
   <a href="https://github.com/Niharxd/Document-Summarizer">Source Code</a>
 </p>
 
+<sub>The demo runs on free hosting, so the first load may take around 30 seconds.</sub>
+
 </td>
 </tr>
 
@@ -320,5 +322,5 @@ Expected Graduation: 2027
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:B89632,50:302800,100:080808&text=Thanks%20for%20stopping%20by&fontColor=F5F0E5&fontSize=22&fontAlignY=68" width="100%" alt="Gold footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:B89632,50:302800,100:080808&text=Thanks%20for%20stopping%20by&font=Playfair%20Display&fontColor=F5F0E5&fontSize=24&fontAlignY=68" width="100%" alt="Gold footer" />
 </p>
