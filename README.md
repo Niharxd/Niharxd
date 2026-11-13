@@ -1,23 +1,27 @@
 # Nihar Ranjan Patra
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=34&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=66&descSize=14" width="100%" alt="Nihar Ranjan Patra" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:080808,55:302800,100:B89632&text=Nihar%20Ranjan%20Patra&fontColor=F5F0E5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20and%20Data%20Science&descAlignY=58&descSize=16" width="100%" alt="Nihar Ranjan Patra" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1200&color=B89632&center=true&vCenter=true&width=640&height=45&lines=Full-Stack+Developer;Applied+AI+and+Data+Science;Building+practical+solutions+with+code+and+data" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=B89632&center=true&vCenter=true&width=640&height=45&lines=Full-Stack+Developer;Applied+AI+and+Data+Science;Building+practical+solutions+with+code+and+data" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nihar-patra.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/nihar-patra-2277np">LinkedIn</a> ·
-  <a href="mailto:niharpatra2277@gmail.com">Email</a> ·
-  <a href="https://github.com/Niharxd">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:080808,50:B89632,100:080808" width="60%" height="2" alt="Gold divider" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-nihar-patra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-B89632?style=flat-square&labelColor=080808&logo=googlechrome&logoColor=B89632" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-Connect-B89632?style=flat-square&labelColor=080808&logo=linkedin&logoColor=B89632" alt="LinkedIn" /></a>
+  <a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B89632?style=flat-square&labelColor=080808&logo=gmail&logoColor=B89632" alt="Email" /></a>
+  <a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-Follow-B89632?style=flat-square&labelColor=080808&logo=github&logoColor=B89632" alt="GitHub" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Niharxd&label=PROFILE+VIEWS&color=B89632&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Niharxd?label=Followers&color=B89632&style=flat-square" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Niharxd?label=Followers&color=B89632&labelColor=080808&style=flat-square" alt="GitHub followers" />
 </p>
 
 ---
@@ -301,15 +305,20 @@ Expected Graduation: 2027
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:080808,50:B89632,100:080808" width="60%" height="2" alt="Gold divider" />
+</p>
+
+<p align="center">
   <sub>Building practical solutions through code, data, and continuous learning.</sub>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nihar-patra.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/nihar-patra-2277np">LinkedIn</a> ·
-  <a href="mailto:niharpatra2277@gmail.com">Email</a>
+  <a href="https://portfolio-nihar-patra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-B89632?style=flat-square&labelColor=080808&logo=googlechrome&logoColor=B89632" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nihar-patra-2277np"><img src="https://img.shields.io/badge/LinkedIn-Connect-B89632?style=flat-square&labelColor=080808&logo=linkedin&logoColor=B89632" alt="LinkedIn" /></a>
+  <a href="mailto:niharpatra2277@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B89632?style=flat-square&labelColor=080808&logo=gmail&logoColor=B89632" alt="Email" /></a>
+  <a href="https://github.com/Niharxd"><img src="https://img.shields.io/badge/GitHub-Follow-B89632?style=flat-square&labelColor=080808&logo=github&logoColor=B89632" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:080808,50:302800,100:B89632&section=footer&animation=twinkling" width="100%" alt="Gold footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:B89632,50:302800,100:080808&text=Thanks%20for%20stopping%20by&fontColor=F5F0E5&fontSize=22&fontAlignY=68" width="100%" alt="Gold footer" />
 </p>
